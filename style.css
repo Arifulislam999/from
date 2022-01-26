@@ -1,0 +1,30 @@
+label {
+    font-size: 22px;
+    font-weight: bold;
+    z-index: 20;
+    transition: all 0.3s ease;
+    position: absolute;
+    left: 5px;
+}
+
+.col-md-6 {
+    position: relative;
+    width: 100%;
+}
+
+input {
+    border: none;
+    position: absolute;
+    padding-left: 10px;
+}
+
+#password,
+#name {
+    font-size: 20px;
+    border-bottom: 2px solid black;
+    width: 90%;
+}
+
+.inp {
+    position: absolute;
+}
